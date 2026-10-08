@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prismaPprogramas/fotostorenqn.git/static/css/main.bb63726a.css",
+    "main.js": "/prismaPprogramas/fotostorenqn.git/static/js/main.d9acac52.js",
+    "static/js/453.09ed972e.chunk.js": "/prismaPprogramas/fotostorenqn.git/static/js/453.09ed972e.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/prismaPprogramas/fotostorenqn.git/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/prismaPprogramas/fotostorenqn.git/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/prismaPprogramas/fotostorenqn.git/index.html",
+    "main.bb63726a.css.map": "/prismaPprogramas/fotostorenqn.git/static/css/main.bb63726a.css.map",
+    "main.d9acac52.js.map": "/prismaPprogramas/fotostorenqn.git/static/js/main.d9acac52.js.map",
+    "453.09ed972e.chunk.js.map": "/prismaPprogramas/fotostorenqn.git/static/js/453.09ed972e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb63726a.css",
+    "static/js/main.d9acac52.js"
+  ]
+}
